@@ -1,8 +1,9 @@
 # AirBnB Clone - The Console
 
   
-![HolBnB clone](https://github.com/monoprosito/AirBnB_clone/blob/feature/console/hBnB.png?raw=true)
-Welcome to the AirBnB clone project! (The Holberton B&B)
+![HolBnB clone](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220904%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220904T134112Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f9a62102640f5996d73b502d5a8159e3750f57acc5070693856cc8fbe7e63299)
+Welcome to the AirBnB clone project!
+Before starting, please read the AirBnB concept page.
 
   
 
