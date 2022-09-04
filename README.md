@@ -3,6 +3,9 @@
   
 ![HolBnB clone](https://github.com/girmangus/AirBnB_clone/blob/22c493a381bd811f9c7d24f2d03571eae0945a64/65f4a1dd9c51265f49d0.png)
 Welcome to the AirBnB clone project!
+
+  
+
 Before starting, please read the AirBnB concept page.
 
   
